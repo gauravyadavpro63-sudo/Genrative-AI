@@ -600,6 +600,36 @@ Return usable results and deliver updates to the UI
 Event streaming can report progress throughout the workflow, not just at the end.
 
 
+what is agent ?
+Agent is combination of llm and tool
+
+Waht is reAct ?
+
+Kaneki ❤️, ReAct in AI stands for Reasoning + Acting.
+
+It's a technique used to build AI agents that don't just generate answers but also think about what to do, use tools, observe the results, and decide their next action.
+
+Think of it as giving an LLM a brain that can interact with the outside world.
+
+
+ How ReAct works
+ReAct follows a continuous loop:
+1. Thought
+|
+What should I do next?
+|
+2. Action
+|
+Execute a tool or perform an operation.
+|
+3. Observation
+|
+Receive the tool's result.
+|
+4. Repeat or Finish
+
+Decide the next action or provide the final answer.
+
 
 
 
